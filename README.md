@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Patil</h1>
 
 <p align="center">
-  <img src="https://github.com/yashp1395.png" alt="Yash Patil" width="300"/>
+  <img src="https://github.com/yashp1395/yashp1395/blob/main/image.png" alt="Yash Patil" width="300"/>
 </p>
 
 
