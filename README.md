@@ -42,6 +42,23 @@
 
 ---
 
+---
+
+### 💼 Experience
+
+- 🖥️ **Java Programming Intern – CodSoft (Virtual)**  
+  📅 Dec 2025 – Jan 2026  
+  - Completed a 4-week virtual internship focused on core and advanced Java programming.  
+  - Designed and implemented a **Student Management System** to manage student records, courses, and grades with a console-based UI.  
+  - Successfully delivered all assigned projects and received *“wonderful remarks”* upon completion.
+
+- 🤖 **AI/ML Intern – ShadowFox (Virtual)**  
+  📅 Jan 2026 – Feb 2026  
+  - Completed an intensive one-month internship focused on Artificial Intelligence and Machine Learning.  
+  - Developed and deployed a **Boston House Price Prediction Web App** using Scikit-Learn and Streamlit.  
+  - Worked on real-time ML projects progressing from beginner to advanced levels under structured mentorship.
+
+---
 ### 🏆 Achievements
 - 🏅 **MHT-CET 2023** – Scored 98.93 percentile  
 - 🏆 **ECI Student Registration Award 2024** – State-level award for record-breaking voter registrations  
