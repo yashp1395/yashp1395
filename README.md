@@ -18,7 +18,7 @@
 ### 🧠 About Me
 - 🔧 Skilled in building enterprise-grade backend systems using **Spring Boot**, **Microservices**, and **MySQL**
 - 🤖 Experienced in integrating **AI solutions (Google Gemini, ML models)** into production-ready applications
-- ⚙️ Strong understanding of **Java 22**, **JWT-based RBAC authentication**, **REST APIs**, and **secure architecture**
+- ⚙️ Strong understanding of **Java 17**, **JWT-based RBAC authentication**, **REST APIs**, and **secure architecture**
 - 🧠 Hands-on experience in **Machine Learning**, **NLP**, **Scikit-Learn**, and **Streamlit deployments**
 - 💡 Passionate about solving real-world problems using **DSA**, **System Design**, and **Optimization Algorithms**
 
